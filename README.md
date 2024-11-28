@@ -1,4 +1,4 @@
-![testcase2_post](https://github.com/user-attachments/assets/966e3178-21a2-4288-b634-e2d2b1f3d766)### GIF_gen
+### GIF_gen
 ## Layout Optimization Animation Tool
 This tool generates an animated visualization of layout optimization steps.
 .lg, .opt, and .post files as input and outputs an animated .gif file will show the optimization process step-by-step.
