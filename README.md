@@ -5,4 +5,17 @@ This tool generates an animated visualization of layout optimization steps.
 
 The tool is implemented at least in Python **3.7** version 
 
+## Command:
+`python main.py -lg <path_to_lg_file> -opt <path_to_opt_file> -post <path_to_post_file> -out <output_file>`
 
+
+## Code Workflow
+# Input File Parsing:
+Parses .lg, .opt, and .post files to extract die size, blocks, placement rows, and optimization steps.
+# Visualization:
+Renders the die, placement rows, and blocks.
+Updates the visualization at each optimization step.
+Animation Generation:
+Saves each step as a frame and combines them into a .gif file.
+# Output:
+Generates the animation file as specified by the -output argument.
