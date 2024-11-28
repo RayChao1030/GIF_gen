@@ -8,7 +8,7 @@ The tool is implemented at least in Python **3.7** version
 ## Command:
 `python main.py -lg <path_to_lg_file> -opt <path_to_opt_file> -post <path_to_post_file> -out <output_file>`
 
-## This is testcase2 result.
+## Testcase2 result.
 ![testcase2_post](https://github.com/user-attachments/assets/8ce094d6-ef91-4825-a45d-79743cdb5ab9)
 
 
