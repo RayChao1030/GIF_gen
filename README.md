@@ -18,4 +18,4 @@ Updates the visualization at each optimization step.
 Animation Generation:
 Saves each step as a frame and combines them into a .gif file.
 # Output:
-Generates the animation file as specified by the -output argument.
+Generates the animation file *GIF* as specified by the -output argument.
